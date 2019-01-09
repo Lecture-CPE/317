@@ -5,8 +5,8 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 
 ## Resources
 
-| Lab# | Date | Description  |Slide|
-|:-----:|------|-------------|----|---------------------|
+| Lab# | Date | Description  |Sheet|
+|:-----:|------|-------------|----|
 |  1 |Thu 10 Jan 2019| Orientation & Preparing software| [[course description]](https://drive.google.com/open?id=1MyTgrSqpio0jGd2o9WINq8MJB-081QA6), [[Lab1-1, LAB1-2]](https://drive.google.com/open?id=1NaNq8N_E-U4xH_Fi462MCbQNKs-U10_J) |
 |2   |      |             | |
 |   3   |      |              |                     |
