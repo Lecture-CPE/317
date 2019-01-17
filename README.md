@@ -9,7 +9,7 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 
 | Lab# | Date | Description  |Sheet|
 |:-----:|------|-------------|----|
-|  1 |Thu 10 Jan 2019| Orientation & Preparing software| [[course description]](https://drive.google.com/open?id=1MyTgrSqpio0jGd2o9WINq8MJB-081QA6), [[Lab-1]](https://drive.google.com/open?id=1XiKzVLFkR4WcpqlD3UI7Mcn5R0RavJa4), [[Submit Sheet]](https://drive.google.com/open?id=1NaNq8N_E-U4xH_Fi462MCbQNKs-U10_J) |
+|  1 |Thu 10 Jan 2019| Orientation & Preparing software| [[course description]](https://drive.google.com/open?id=1MyTgrSqpio0jGd2o9WINq8MJB-081QA6), [[Lab-1]](https://drive.google.com/open?id=1jWdIIBDkq8pdwDGJXQBioWSJgP6cwDnD), [[Submit Sheet]](https://drive.google.com/open?id=1NaNq8N_E-U4xH_Fi462MCbQNKs-U10_J) |
 |2   |Thu 17 Jan 2019| Basic router config , Static & Dynamic Routing, RIP |[[Lab-2-1]](https://drive.google.com/open?id=1I9zb3NwRkHWQqifGDjVAKNdedZ6MnEA1) [[Lab-2: 2 to 6]](https://drive.google.com/open?id=1vj7E7w1-HjBr6ZgqhtpZfSF2shdMkMBM), [VDO Install IOS firmware](https://youtu.be/EZimFm6K22Y), Fill in pdf|
 |   3   |      |              |                     |
 |   4   |      |              |                     |
