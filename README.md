@@ -3,8 +3,9 @@
 ## Objectives
 This course concern in the laboratory experiments (Hand-on) on topics covered in Data Communications and computer networks. The topics are TCP/IP and addressing; Wide Area Network; Routing Protocol; Manage Switch; Virtual LAN configuration; WAN design.
 ## Lab score
-* [LAB1-2.pdf(20 Jan 2019)](https://drive.google.com/file/d/12fNOxsOtP3XKk_nTKgMDIRJ6Z0XsGtUe/view?usp=sharing)
-* [LAB1.pdf (16 Jan 2019)](https://drive.google.com/open?id=1GIreYl49djcY6FLomK3NJv6pcLv84z6c)
+* [LAB1-2.pdf-r1(23 Jan 2019)](https://drive.google.com/file/d/1AA6arikicxd4VlY9rGaoM-K5cHAmVVAD/view?usp=sharing)
+* <s>[LAB1-2.pdf(20 Jan 2019)](https://drive.google.com/file/d/12fNOxsOtP3XKk_nTKgMDIRJ6Z0XsGtUe/view?usp=sharing)</s>
+* <s>[LAB1.pdf (16 Jan 2019)](https://drive.google.com/open?id=1GIreYl49djcY6FLomK3NJv6pcLv84z6c)</s>
 
 ## Resources
 
