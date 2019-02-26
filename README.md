@@ -16,11 +16,11 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 |2(Makeup)   |Sat 19 Jan 2019(10:00-12:00)| Static route IPv6 |[[Lab-IPv6_1]](https://drive.google.com/file/d/1MOKEnrcrWW7n6w3v4zPRICYZlJmWg7jl/view?usp=sharing),[[Lab-IPv6_2]](https://drive.google.com/file/d/1Zxs16I0YMZgVuHj_gyebpY1z_iHLFlD2/view?usp=sharing), Answer in class|
 |3  |Thu 24 Jan 2019(13:00-16:00)|  Dynamic Routing, RIP |[[Lab-2: 2 to 6]](https://drive.google.com/open?id=1vj7E7w1-HjBr6ZgqhtpZfSF2shdMkMBM), [VDO Install IOS firmware](https://youtu.be/EZimFm6K22Y),[[resources.txt]](https://drive.google.com/file/d/1pCmulwjgHpcFpu5rIO6wm0uTQ-THF0qk/view?usp=sharing), Fill in pdf||
 |   4   |Thu 7 Feb 2019     | Switch configuration             | [[Lab-4]](https://drive.google.com/open?id=14UCqOOfG6ZnqGG7LdRA1ybLxmVxUtgMT)  ||
-|   5   |Thu 14 Feb 2019 | IP Subnet |  [Lab-5] (3.1)                    | 23:59 19-Feb-2019    |
-|   6   |      |              |                     ||
-|   7   |      |              |                     ||
-|       |      | ***Midterm exam*** |  ||
+|   5   |Thu 14 Feb 2019 | IP Subnet |  [Lab-5] (3.1)   | 23:59 19-Feb-2019    |
+|   6   |Thu 21 Feb 2019 | Spanning Tree | [Lab-6]      | 23:59 21-Feb-2019    |
+|   7   |Thu 28 Feb 2019 | Wireless LAN    | [Lab-7] | in-class |
 |   8   |      |              |                     ||
+|       |      | ***Midterm exam*** |  ||
 |   9   |      |              |                     ||
 |   10  |      |              |                     ||
 |   11  |      |              |                     ||
