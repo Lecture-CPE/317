@@ -18,7 +18,7 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 |   4   |Thu 7 Feb 2019     | Switch configuration             | [[Lab-4]](https://drive.google.com/open?id=14UCqOOfG6ZnqGG7LdRA1ybLxmVxUtgMT)  ||
 |   5   |Thu 14 Feb 2019 | IP Subnet |  [Lab-5] (3.1)   | 23:59 19-Feb-2019    |
 |   6   |Thu 21 Feb 2019 | Spanning Tree | [Lab-6]      | 23:59 21-Feb-2019    |
-|   7   |Thu 28 Feb 2019 | Wireless LAN    | [Lab-7] | in-class |
+|   7   |Thu 28 Feb 2019 | Wireless LAN    | * [Lab-7-1](https://drive.google.com/file/d/1o5XVj9CnZGh4mqhotdWQGvOA_L3xEeGW/view?usp=sharing)<br>* [Lab-7-2](https://drive.google.com/file/d/1LREVLnr78gqgqSfQN_5X3h1L9iKLt8c1/view?usp=sharing)<br>* [WLAN technology](https://drive.google.com/file/d/1N0KpZM4Nb3ABB3fOupIGbEt65Bb39fQ7/view?usp=sharing) | in-class |
 |   8   |      |              |                     ||
 |       |      | ***Midterm exam*** |  ||
 |   9   |      |              |                     ||
