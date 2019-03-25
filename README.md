@@ -21,7 +21,7 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 |   7   |Thu 28 Feb 2019 | Wireless LAN    | * [Lab-7-1](https://drive.google.com/file/d/1o5XVj9CnZGh4mqhotdWQGvOA_L3xEeGW/view?usp=sharing)<br>* [Lab-7-2](https://drive.google.com/file/d/1N0KpZM4Nb3ABB3fOupIGbEt65Bb39fQ7/view?usp=sharingf)<br>* [WLAN technology](https://drive.google.com/file/d/1LREVLnr78gqgqSfQN_5X3h1L9iKLt8c1/view?usp=sharing) | in-class |
 |   8   | **No class**     |   งานเกษตรลุ่มน้ำโขง           |                     ||
 |       |      | ***Midterm exam*** |  ||
-|   9   |Thu 21 Mar 2019| Linux Server | * [DHCP-server](https://drive.google.com/file/d/1reG3hDSH6QaQwjfXvneUTj7alPlsUJN3/view?usp=sharing)<br> * [DNS-Server](https://drive.google.com/file/d/1nO7pYgWQP4BgXvvmgoQ62zCjdRQY_q08/view?usp=sharing)<br> * [Linux command line](linux/linux-command.jpg]                    ||
+|   9   |Thu 21 Mar 2019| Linux Server | * [DHCP-server](https://drive.google.com/file/d/1reG3hDSH6QaQwjfXvneUTj7alPlsUJN3/view?usp=sharing)<br> * [DNS-Server](https://drive.google.com/file/d/1nO7pYgWQP4BgXvvmgoQ62zCjdRQY_q08/view?usp=sharing)<br> * [Linux command line](linux/linux-command.jpg)                ||
 |   10  |      |              |                     ||
 |   11  |      |              |                     ||
 |   12  |      |              |                     ||
