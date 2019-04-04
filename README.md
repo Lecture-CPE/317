@@ -22,7 +22,7 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 |   8   | **No class**     |   งานเกษตรลุ่มน้ำโขง           |                     ||
 |       |      | ***Midterm exam*** |  ||
 |   9   |Thu 21 Mar 2019| Linux Server | * [DHCP-server](https://drive.google.com/file/d/1reG3hDSH6QaQwjfXvneUTj7alPlsUJN3/view?usp=sharing)<br> * [DNS-Server](https://drive.google.com/file/d/1nO7pYgWQP4BgXvvmgoQ62zCjdRQY_q08/view?usp=sharing)<br> * [Linux command line](linux/linux-command.jpg)                ||
-|   10  |      |              |                     ||
+|   10  |Thu 4 Apr 2019      | Python Programming    | [Python-structure](https://drive.google.com/file/d/1jcuBMe-pG-nJzCJOyctwszrIg7d7c66r/view?usp=sharing)  ||
 |   11  |      |              |                     ||
 |   12  |      |              |                     ||
 |   13  |      |              |                     ||
