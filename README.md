@@ -3,7 +3,8 @@
 ## Objectives
 This course concern in the laboratory experiments (Hand-on) on topics covered in Data Communications and computer networks. The topics are TCP/IP and addressing; Wide Area Network; Routing Protocol; Manage Switch; Virtual LAN configuration; WAN design.
 ## Lab score
-* [LAB1-7.pdf(14 Apr 2019)](https://drive.google.com/file/d/1hdIJWJajUQPe61PY_R_5MB3r3UglK4RZ/view?usp=sharing)
+* [LAB1-8.pdf(18 Apr 2019)](https://drive.google.com/file/d/10PqBBOrMDIQZWIkdTEJR2yk4k7mNH2OT/view?usp=sharing)
+* <s>[LAB1-7.pdf(14 Apr 2019)](https://drive.google.com/file/d/1hdIJWJajUQPe61PY_R_5MB3r3UglK4RZ/view?usp=sharing)</s>
 * <s>[LAB1-2.pdf-r1(23 Jan 2019)](https://drive.google.com/file/d/1AA6arikicxd4VlY9rGaoM-K5cHAmVVAD/view?usp=sharing)</s>
 * <s>[LAB1-2.pdf(20 Jan 2019)](https://drive.google.com/file/d/12fNOxsOtP3XKk_nTKgMDIRJ6Z0XsGtUe/view?usp=sharing)</s>
 * <s>[LAB1.pdf (16 Jan 2019)](https://drive.google.com/open?id=1GIreYl49djcY6FLomK3NJv6pcLv84z6c)</s>
@@ -24,9 +25,9 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 |       |      | ***Midterm exam*** |  ||
 |   9   |Thu 21 Mar 2019| Linux Server | * [DHCP-server](https://drive.google.com/file/d/1reG3hDSH6QaQwjfXvneUTj7alPlsUJN3/view?usp=sharing)<br> * [DNS-Server](https://drive.google.com/file/d/1nO7pYgWQP4BgXvvmgoQ62zCjdRQY_q08/view?usp=sharing)<br> * [Linux command line](linux/linux-command.jpg)                ||
 |   10  |Thu 4 Apr 2019      | Python Programming    | [Python-structure](https://drive.google.com/file/d/1jcuBMe-pG-nJzCJOyctwszrIg7d7c66r/view?usp=sharing)  ||
-|   11  |      |              |                     ||
-|   12  |      |              |                     ||
-|   13  |      |              |                     ||
-|   14  |      |              |                     ||
+|   11  |      | Songkran Festival             |                     ||
+|   12  |Thu 18 Apr 2019      |  DHCP Server         | * [DHCP-server](https://drive.google.com/file/d/1reG3hDSH6QaQwjfXvneUTj7alPlsUJN3/view?usp=sharing)<br> * [Midterm Assignment](takehome.md) (Take Home)                     | In-class|
+|   13  |Sun 21 May 2019  | DNS Server             | [DNS-Server](https://drive.google.com/file/d/1nO7pYgWQP4BgXvvmgoQ62zCjdRQY_q08/view?usp=sharing)                    ||
+|   14  |Thu 25 Apr 2019 | Midterm Exam |                     |   |
 |   15  |      |              |                     ||
-|       |      | ***Final exam***   |                 ||
+|   16  |Sun 12 May 2019   | ***Final exam***   |                 ||
