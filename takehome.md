@@ -14,3 +14,6 @@
 * ตอบคำถามในวันสอบ  (50%)
 
 
+### ตัวอย่าง network diagram (ขาดหมายเลข IP)
+
+![](images/example.png)
