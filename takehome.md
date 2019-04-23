@@ -11,9 +11,8 @@
 * อุปกรณ์ทั้งหมดเชื่อมถึงกัน
 
 ### ส่งงาน 25 เมษายน 2562 
-* ส่ง Network Diagram + Network IP (50%)
-* ตอบคำถามในวันสอบ  (50%)
-
+* ส่ง Network Diagram + Network IP (50%) พิมพ์ใส่กระดาษมาในวันสอบ
+* ตอบคำถามในวันสอบ  (50%) พิมพ์ [checklist](midterm/midterm-check.pdf) พร้อม Network diagram มาในวันสอบ
 
 ### ตัวอย่าง network diagram (ขาดหมายเลข IP)
 
