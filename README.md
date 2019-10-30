@@ -10,5 +10,5 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 | Lab# | Date | Description  |Sheet|Due date|
 |:-----:|------|-------------|----|---|
 |  1 |Thu 31 Oct 2019| Orientation & Preparing software| [[course description]](), [[Lab-1]](), [[Submit]](https://elab.cpek6.com) ||
-|   16  |  ~Nov 2019   | ***Final exam***   |                 ||
+|   16  |  ~Nov 2019   | ***Midterm exam***   |                 ||
 |   16  |  ~Feb 2020   | ***Final exam***   |                 ||
