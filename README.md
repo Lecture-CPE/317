@@ -9,8 +9,9 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 
 ## Resources
 
-| Lab# | Date | Description  |Sheet|Due date|
+| Lab# | Date | Description  |Sheet|Submit|
 |:-----:|------|-------------|----|---|
 |  1 |Thu 31 Oct 2019| Orientation & Preparing software| [[Syllabus]](https://drive.google.com/file/d/1Kdr0yXq6ZfJjV7yyoV9dvSruQMxQ-HaQ/view?usp=sharing)[[course description]](https://drive.google.com/file/d/1RkvaW7wQOsBuJgTCBwsBAqG8R4UxtUyK/view?usp=sharing), [[Lab-1]](https://drive.google.com/file/d/1znu10iFfT7SfTFj5mRNYdUyLuz1RBqaG/view?usp=sharing), [[Submit]](https://elab.cpek6.com) ||
+| 2 |Thu 7 Nov 2019| Basic Switch | [LAB-02](https://drive.google.com/file/d/1Qwly-UeKe3_toNnzmUNtIvf2ZfazeFnP/view?usp=sharing) |16:00น. [submit](https://elab.cpek6.com)|
 |   16  |  ~Nov 2019   | ***Midterm exam***   |                 ||
 |   16  |  ~Feb 2020   | ***Final exam***   |                 ||
