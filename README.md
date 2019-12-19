@@ -16,5 +16,6 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 | 3 |Thu 13 Nov 2019 (Make-up class)| Basic VLAN | [LAB-03](https://drive.google.com/file/d/1FvKgqxq6mcOpxQ3NYqftb9_bUnPnIPoN/view?usp=sharing) |16:00น. [submit](https://elab.cpek6.com)|
 |4|Thu 21 Nov 2019 | Static and Dynamic Routing| [LAB-04](https://drive.google.com/file/d/1aslSPW6D-A3JS7mytllkc5o-TFGwiDQG/view?usp=sharing)| 16:00น. [submit](https://elab.cpek6.com)|
 |5|Thu 12 Dec 2019 | Dynamic Routing | - [LAB-05-1](https://drive.google.com/file/d/1-I1WFUdcJN8SF1CD8_aqL938hb0hHTeU/view?usp=sharing)<br> - [LAB-05-2](https://drive.google.com/file/d/1eYY4Ptr_1_M97rAqhcnRDhzzM2wykt3G/view?usp=sharing)<br> - [LAB-05-Brief](https://drive.google.com/file/d/1YQKPaUGz2Q3aTHEUTyy1TA85bgrZj92a/view?usp=sharing)||
+|6|Thu 19 Dec 2019 | Routing configuration| [LAB-06-Lect](https://drive.google.com/file/d/15DPzN5dXE03K6om7pt67lRaVWGmzc8el/view?usp=sharing)||
 |   16  |  ~Nov 2019   | ***Midterm exam***   |                 ||
 |   16  |  ~Feb 2020   | ***Final exam***   |                 ||
