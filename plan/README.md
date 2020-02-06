@@ -7,3 +7,8 @@
 ### การดำเนินการ
 
 ในส่วนนี้มี
+
+#### ซฮฟต์แวร์ที่เกี่ยวข้อง
+* https://www.overleaf.com
+* https://www.tug.org/texlive/  [2](https://netlab2.cpek6.com/files)
+* TexStudio[1](https://www.texstudio.org),[2](https://netlab2.cpek6.com/files)
