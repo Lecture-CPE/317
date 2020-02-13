@@ -25,6 +25,8 @@
 
 ในการทดลองนี้ได้บันทึกผลทดลองในไฟล์ [WLAN-survey.xlsx](https://github.com/Lecture-CPE/317/blob/2562-2/plan/WLAN-survey.xlsx?raw=true) และ [floor.docx](https://github.com/Lecture-CPE/317/blob/2562-2/plan/floor.docx) ในแต่ละตำแหน่งจะทดสอบด้วยวิธีเดิมเป็นจำนวน 3 ซ้ำ (เก็บผลจนครบทุกการทดลอง เสร็จแล้วกลับมาทำซ้ำจนได้ข้อมูลครบ 3 รอบ) 
 
+การใช้ Template สำหรับเขียนรายงานด้วย Overleaf ดาวน์โหลดที่ [Overleaf.pdf](https://drive.google.com/file/d/1cUQQoU5Pe8M87SE-hKT8kiP8kW7E4fLt/view?usp=sharing)
+
 #### วางโครงรายงาน
 #### ขั้นปฏิบัติการทดลอง
 #### ปฏิบัติการวิเคราะห์การทดลอง
