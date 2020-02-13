@@ -23,5 +23,6 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 | 10  | 29 Jan 2019 (ชดเชย)   | Acess Control List  |                 ||
 | 11  |  30 Jan 2019 (13:30-16:30)   | ACL    |  **Slide**<br>-[ACL](https://drive.google.com/file/d/1kyL4JnKHziq9TrygI04-v4dGHihDrkhh/view?usp=sharing)               ||
 |   |  30 Jan 2019 (13:30-16:30)   | ***Midterm exam (Round-2)***   |                 ||
-| 12  |  6 Feb 2019 (13:30-16:30)   | WLAN Site survey    |  **Slide**<br>-[WLAN](https://drive.google.com/file/d/1zqFs3vo0ENKfAYT7-ItIeVHsx9AKUvdX/view?usp=sharing)   <br>**doc** -[Lab sheet](plan)  |[[Submit]](https://elab.cpek6.com) 7 Feb 2020|  
+| 12  |  6 Feb 2019 (13:30-16:30)   | WLAN Site survey    |  **Slide**<br>-[WLAN](https://drive.google.com/file/d/1zqFs3vo0ENKfAYT7-ItIeVHsx9AKUvdX/view?usp=sharing)  <br>**doc** -[Lab sheet](plan)  |[[Submit]](https://elab.cpek6.com) 20 Feb 2020|  
+| 13  |  13 Feb 2019 (13:30-16:30)   | WLAN Site survey    |  **Slide**<br>-[WLAN](https://drive.google.com/file/d/1zqFs3vo0ENKfAYT7-ItIeVHsx9AKUvdX/view?usp=sharing)  <br> - [Overleaf](https://drive.google.com/open?id=1cUQQoU5Pe8M87SE-hKT8kiP8kW7E4fLt) <br> **doc** -[Lab sheet](plan)  |[[Submit]](https://elab.cpek6.com) 20 Feb 2020|  
 |   16  |  ~Feb 2020   | ***Final exam***   |                 ||
