@@ -11,5 +11,6 @@ This course concern in the laboratory experiments (Hand-on) on topics covered in
 
 | Lab# | Date | Description  |Sheet|Submit|
 |:-----:|------|-------------|----|---|
-| 1  |  Nov 2020 (13:30-16:30)   | ***Midterm exam***  |                 ||     
+| 1  |  27-Nov-2020 (13:30-16:30)   | Course description  | [description](https://github.com/Lecture-CPE/317/raw/2563-2/31110317-description.pdf)                 ||     
+|   |  Nov 2020 (13:30-16:30)   | ***Midterm exam***  |                 ||     
 |     |  Feb 2021 (13:30-15:30)   | ***Final exam***   |                ||
