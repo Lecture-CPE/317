@@ -1,0 +1,134 @@
+\documentclass[11pt, a4paper]{article}
+%\usepackage{geometry}
+\usepackage[inner=1.5cm,outer=1.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+\pagestyle{empty}
+\usepackage{graphicx}
+\usepackage{fancyhdr, lastpage, bbding, pmboxdraw}
+\usepackage[usenames,dvipsnames]{color}
+\definecolor{darkblue}{rgb}{0,0,.6}
+\definecolor{darkred}{rgb}{.7,0,0}
+\definecolor{darkgreen}{rgb}{0,.6,0}
+\definecolor{red}{rgb}{.98,0,0}
+\usepackage[colorlinks,pagebackref,pdfusetitle,urlcolor=darkblue,citecolor=darkblue,linkcolor=darkred,bookmarksnumbered,plainpages=false]{hyperref}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\pagestyle{fancyplain}
+\fancyhf{}
+\lhead{ \fancyplain{}{31110317 Computer Networks Laboratory}}
+%\chead{ \fancyplain{}{} }
+\rhead{ \fancyplain{}{\today} }
+%\rfoot{\fancyplain{}{page \thepage\ of \pageref{LastPage}}}
+\fancyfoot[RO, LE] {page \thepage\ of \pageref{LastPage} }
+\thispagestyle{plain}
+
+%%%%%%%%%%%% LISTING %%%
+\usepackage{listings}
+\usepackage{caption}
+\DeclareCaptionFont{white}{\color{white}}
+\DeclareCaptionFormat{listing}{\colorbox{gray}{\parbox{\textwidth}{#1#2#3}}}
+\captionsetup[lstlisting]{format=listing,labelfont=white,textfont=white}
+\usepackage{verbatim} % used to display code
+\usepackage{fancyvrb}
+\usepackage{acronym}
+\usepackage{amsthm}
+\usepackage{cancel}
+\VerbatimFootnotes % Required, otherwise verbatim does not work in footnotes!
+
+\definecolor{OliveGreen}{cmyk}{0.64,0,0.95,0.40}
+\definecolor{CadetBlue}{cmyk}{0.62,0.57,0.23,0}
+\definecolor{lightlightgray}{gray}{0.93}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\begin{center}
+{\Large \textsc{31110317 Computer Networks Laboratory}}
+\end{center}
+
+\begin{center}
+\rule{6in}{0.4pt}
+\begin{minipage}[t]{.75\textwidth}
+\begin{tabular}{llcccll}
+\textbf{Instructor:} & Songrit Kitisriworapan & & &  & \textbf{Time:} & Fri 13:30 -- 16:30 \\
+\textbf{Email:} &  \href{mailto:songrit@npu.ac.th}{songrit@npu.ac.th} & & & & \textbf{Place:} & Engineering Bld. EN1303
+\end{tabular}
+\end{minipage}
+\rule{6in}{0.4pt}
+\end{center}
+\vspace{.5cm}
+\setlength{\unitlength}{1in}
+\renewcommand{\arraystretch}{2}
+
+\noindent\textbf{Course Pages:} \begin{enumerate}
+\item \url{https://github.com/Lecture-CPE/317}
+\item \url{https://elab.npu.world}
+\end{enumerate}
+
+\vskip.15in
+\noindent\textbf{Office Hours:} After class, or by appointment, or E-mail.
+
+\noindent\textbf{Objectives:} This course concern in the laboratory experiments (Hand-on) on topics covered in Data Communications and computer networks. The topics are TCP/IP and addressing; Wide Area Network; Routing Protocol; Manage Switch; Virtual LAN configuration; WAN design.
+\vskip.15in
+\noindent\textbf{Prerequisites:}
+-
+
+\vspace*{.15in}
+
+\vspace*{.15in}
+\noindent\textbf{Grading Policy:} Lab assignment (40\%), Assignments (10\%),  Midterm (20\%), Final (30\%).
+\vskip.15in
+\noindent\textbf{Important Dates:}
+\begin{center} \begin{minipage}{3.8in}
+\begin{flushleft}
+Midterm          \dotfill ~Jan, 2021  \\
+Final Exam       \dotfill ~Mar, 2021  \\
+\end{flushleft}
+\end{minipage}
+\end{center}
+
+\vskip.15in
+\noindent\textbf{Course Policy:}  
+\begin{itemize}
+\item Grading A, B+, B, C+, C, D+, D, F($<$ 50\%)
+\item All hard-copy assignments must be handed in at the beginning of the class ($>$ 15 min. is considered late).
+\item For soft-copy will be timed by the local time stamp.
+\end{itemize}
+
+\vskip.15in
+\noindent\textbf{Class Policy:}  
+\begin{itemize}
+\item Regular attendance is essential and expected.
+\end{itemize}
+\vskip.15in
+\noindent\textbf{Academic Honesty:} Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation.
+\clearpage
+\noindent \textbf{Tentative Course Outline:}
+
+\begin{center}
+\begin{table}[h]
+\scalebox{0.9}{
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\textbf{Week} & \textbf{Description}                                                                                                                \\ \hline
+1             & \begin{tabular}[c]{@{}l@{}}Course orientation\\ Preparing tools; Introduction to Docker, GNS3, VirtualBox, Ubuntu\\ \textbf{Lab-1} Connected PC \end{tabular} \\ \hline
+2             & \textbf{Lab-2} LAN cable and basic switch configuration \\ \hline
+3             & \textbf{Lab-3} VLAN Configuration \\ \hline
+4             & \textbf{Lab-4} Static Routing \\ \hline
+5             & \textbf{Lab-5} Dynamic Routing, RIP \\ \hline
+6             & \textbf{Lab-6} Dynamic Routing, OSPF \\ \hline
+7             & \textbf{Lab-7} VLAN Trunking Protocol \\ \hline
+8             & \textbf{Midterm Exam} \\ \hline
+9             &  Site visit (DC) \\ \hline
+10            & \textbf{Lab-10} Access Control List \\ \hline
+11            & \textbf{Lab-11} Access Control List (Cont) \\ \hline
+12            & \textbf{Lab-12} WLAN           \\ \hline
+13            & \textbf{Lab-13} WLAN Site survey \\ \hline
+14            & \textbf{Lab-14} WLAN Site survey (Cont) \\ \hline
+15            & \textbf{Lab-15} Summary course \\ \hline
+16            & \textbf{Final Exam} \\ \hline
+\end{tabular} }
+
+\end{table}
+\end{center}
+%%%%%% THE END 
+\end{document} 
