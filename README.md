@@ -6,6 +6,11 @@
 This course concern in the laboratory experiments (Hand-on) on topics covered in Data Communications and computer networks. The topics are TCP/IP and addressing; Wide Area Network; Routing Protocol; Manage Switch; Virtual LAN configuration; WAN design.
 ## Lab score
 
+## Facility
+* https://id.npu.world
+* https://elab.npu.world
+* https://ssh.npu.world
+* https://files.npu.world
 
 ## Resources
 
