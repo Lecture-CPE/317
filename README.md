@@ -1,24 +1,2 @@
 # Computer Networks Laboratory (31110317)
-## คำชี้แจง
-เนื้อหาในเว็บนี้ไม่ได้ผ่านการตรวจทานเช่นที่พบในตำราหรือบทความวารสาร และอาจมีการแก้ไขในขณะบรรยายโดยไม่ได้ปรับแก้เอกสาร จึงไม่เหมาะต่อการใช้อ้างอิง
-
-## Objectives
-This course concern in the laboratory experiments (Hand-on) on topics covered in Data Communications and computer networks. The topics are TCP/IP and addressing; Wide Area Network; Routing Protocol; Manage Switch; Virtual LAN configuration; WAN design.
-## Lab score
-
-## Facility
-* https://id.npu.world
-* https://elab.npu.world
-* https://ssh.npu.world
-* https://files.npu.world
-
-## Resources
-
-| Lab# | Date | Description  |Sheet|Submit|
-|:-----:|------|-------------|----|---|
-| 1  |  27-Nov-2020 (13:30-16:30)   | Course description  | [description](31110317-description.pdf)                 ||     
-| 2  | Fri 4-Dec-2020 (13:30-16:30)  | LAB-1 GNS3 and Linux   | - [Course Intro](w1/w1.1-CourseIntroduction.pdf)<br> - [Linux Command](w1/w1.2-Linux-command.pdf)| [NWK-LAB-01](https://elab.npu.world) |
-| 3  | Fri 18-Dec-2020 (13:30-16:30)  | **No class**   |  |  |
-| 3  | Tue 22-Dec-2020 (13:30-16:30) **Make-up class**  |VirtualBox and Ubuntu|[Linux command](w2/w1.2-Linux-command.pdf) | [NWK-LAB-02](https://elab.npu.world)  |
-| 4  | Fri 8-Jan-2021 (Online)  |Configuration switch| [Packet Tracer](https://drive.google.com/file/d/1PdDfAPWUCS1dFAXjb8zMiHjgqP95jLp3/view?usp=sharing) | [NWK-LAB-03](https://elab.npu.world)  |
-|     |  Feb 2021 (13:30-15:30)   | ***Final exam***   |                ||
+ย้ายไป https://git.npu.world/lecture-cpe/317
